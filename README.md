@@ -1,0 +1,2 @@
+# nerdocracy
+blog for nerdocracy.
