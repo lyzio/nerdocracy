@@ -3,15 +3,6 @@ layout: post
 title: About
 ---
 
-Undoubtably one of the great minds of our time, Christopher Hitchens challenged his readers to think deeply on topics of politics, religion, war, and science. This Jekyll theme is designed in his memory.
+When deciding about a name for blog where it might be just about anything the struggle was real, but since I do tend to really nerd into every topic I get a hand on trying it really shouldn't be that hard. Therefore it became a Nerdocracy, rule by nerds since its paraphrase from democracy, theocracy, aristocracy and so on. What a nerdocracy is and should be I do not know, but i would suppose that is more that of a aristocracy than a democracy. And since this is a somewhat personal space for thoughts, novels and maybe pods it might even be a autocracy, 'One ring to rule them all' so to speak.
 
-<figure>
-  <img alt="Christopher Hitchens" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Christopher_Hitchens_2008-04-24_001.jpg" />
-  <figcaption>
-    Photo by Fri Tanke and licensed under the <a href="https://creativecommons.org/licenses/by/3.0/deed.en">Creative Commons Attribution 3.0 Unported</a> license.
-  </figcaption>
-</figure>
-
-From [Wikipedia](https://en.wikipedia.org/wiki/Christopher_Hitchens):
-
->Christopher Eric Hitchens (13 April 1949 – 15 December 2011) was an Anglo-American author, columnist, essayist, orator, religious and literary critic, social critic, and journalist. Hitchens was the author, co-author, editor or co-editor of over 30 books, including five collections of essays on culture, politics and literature. A staple of public discourse, his confrontational style of debate made him both a lauded intellectual and a controversial public figure. He contributed to New Statesman, The Nation, The Weekly Standard, The Atlantic, London Review of Books, The Times Literary Supplement, Slate, Free Inquiry and Vanity Fair.
+And as Jean Valjean sings when he appears in front of the court to save the innocent from being condemd as him, 'Who am I?'. That is a good question and to answer it easy. Nobody special, just a geek, nerd and enthusiast from Sweden that wants a space to write on. My name though is Oliver, and on other places you could find my under my handle 'lyzio'.
