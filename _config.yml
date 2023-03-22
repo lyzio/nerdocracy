@@ -15,7 +15,7 @@ permalink: /:title/
 plugins: 
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-seo-tag
   
 authors:
